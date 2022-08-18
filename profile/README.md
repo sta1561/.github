@@ -2,9 +2,9 @@
 
 This GitHub organization belongs to STA1561 Pemrograman Statistika, Statistics Department, IPB University.
 
-Assistant lectures:
-- Gerry Alfa Dito gerrydito@apps.ipb.ac.id
-- Alfa Nugraha Pradana alfanugraha@apps.ipb.ac.id
+Assistant lecturers:
+- Gerry Alfa Dito gerrydito@apps.ipb.ac.id (Parallel Class at 10.00-12.00 IWT on Thursday)
+- Alfa Nugraha Pradana alfanugraha@apps.ipb.ac.id (Parallel Class at 13.30-15.30 IWT on Friday)
 
 For more info, please visit https://www.stat.ipb.ac.id/main/sta561-pemrograman-statistika-32-1/
 
